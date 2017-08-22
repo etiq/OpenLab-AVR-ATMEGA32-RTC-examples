@@ -1,0 +1,2 @@
+# OpenLab-AVR-ATMEGA32-RTC-examples
+RTC example for AVR-ATMEGA32APU1533
